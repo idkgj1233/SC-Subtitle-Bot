@@ -1,16 +1,16 @@
 {
-    "name": "Streams Extractor Bot",
-    "description": "A bot to extract audio and subtitles from video files..",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "name": "SC Streams Extractor Bot",
+    "description": "A bot to extract audio and subtitles from video files.",
+    "logo": "https://telegra.ph/file/889e66c39d5078dac0795.jpg",
     "keywords": [
         "Streams",
         "Extractor",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Streams-Extractor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://telegram.dog/UC_bot_channel",
+    "repository": "https://github.com/idkgj1233/SC-Subtitle-Bot",
+    "success_url": "https://telegram.dog/UC_bot_channel",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
