@@ -3,16 +3,16 @@ class Script(object):
 
     START_MSG = """<b>Hi {}
     
-I am <b>🌈Saviour Coders' Image Editor Bot🌈</b> which Supports various editing modes.
+I am <b>🌈Saviour Coders' Subtitle Extractor Bot🌈</b> which extracts subtitle/audio from video.
 
-For more <b>lick👉 help</b>
+For more <b>Click👉 help</b>
 
 <b>Support Group</b> :- 🐠@ubuntu_coders🐠
 <b>Support Channel</b> :- 🐬@UC_bot_channel🐬
 <b>My Master</b> :- ⛵️@saviour_coder⛵️"""
 
 
-    HELP_MSG = """<b>Hai, Follow these Steps..</b>
+    HELP_MSG = """<b>Hi, Follow these Steps.</b>
 
 🌀 <i>Send me any Valid video file.</i>
 
