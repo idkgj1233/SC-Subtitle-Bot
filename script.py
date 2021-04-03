@@ -1,19 +1,15 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @trojanzhex
-
 
 class Script(object):
 
-    START_MSG = """<b>Hello {},
+    START_MSG = """<b>Hi {}
+    
+I am <b>🌈Saviour Coders' Image Editor Bot🌈</b> which Supports various editing modes.
 
-I can extract audio and subtitles from video files.
+For more <b>lick👉 help</b>
 
-Send me any video file and extract what you want :).
-
-See <i>help</i> for more details.
-
-© @TroJanzHEX</b>"""
+<b>Support Group</b> :- 🐠@ubuntu_coders🐠
+<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
+<b>My Master</b> :- ⛵️@saviour_coder⛵️"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -26,12 +22,14 @@ See <i>help</i> for more details.
 
 🌀 <i>Now select the stream you need to extract!</i>
 
-<b>© @TroJanzHEX</b>"""
+<b>Support Group</b> :- 🐠@ubuntu_coders🐠
+<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
+<b>My Master</b> :- ⛵️@saviour_coder⛵️"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @saviour_coder    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
