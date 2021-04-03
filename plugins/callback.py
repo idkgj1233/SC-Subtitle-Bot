@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @trojanzhex
-
-
 from pyrogram import filters
 from pyrogram import Client as trojanz
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
@@ -24,7 +19,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("HELP", callback_data="help_data"),
                 InlineKeyboardButton("ABOUT", callback_data="about_data")],
-            [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")]
+            [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/UC_bot_channel")]
         ])
 
         await query.message.edit_text(
@@ -40,7 +35,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("BACK", callback_data="start_data"),
                 InlineKeyboardButton("ABOUT", callback_data="about_data")],
-            [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")]
+            [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/ubuntu_coders")]
         ])
 
         await query.message.edit_text(
@@ -56,7 +51,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("BACK", callback_data="help_data"),
                 InlineKeyboardButton("START", callback_data="start_data")],
-            [InlineKeyboardButton("SOURCE CODE", url="https://github.com/TroJanzHEX/Streams-Extractor")]
+            [InlineKeyboardButton("SOURCE CODE", url="https://github.com/idkgj1233/SC-Subtitle-Bot")]
         ])
 
         await query.message.edit_text(
