@@ -1,62 +1,53 @@
-# Streams Extractor Bot
-
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TroJanzHEX/Streams-Extractor/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Streams-Extractor?style=social">
-
-  </a>
-  
-  <a href="https://github.com/TroJanzHEX/Streams-Extractor/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Streams-Extractor?label=Fork&style=social">
-
-  </a>  
-</p>
-
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Streams-Extractor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Streams-Extractor)
+<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/1e03c485dfc2794b1b8a4.jpg" width="5000"></a></p> 
+<h1 align="center"><b>Saviour_Coder-Subtitle-Extractor-BOT 🇮🇳 </b></h1>
+<h4 align="center">A Powerful, Smart And Simpe Subtitle Extractor Bot.</h4>
 
 
-#### This Bot can extract audios and subtitles from video files.
-#### Send any valid video file and the bot shows you available streams in it that can be extracted!!
+## Support 🚑
+<a href="https://t.me/UC_bot_channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## I'm just a student who just want to learn coding!!
+
+- 🔭 I love to code.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to swim and play guitar / drums
 
 
-## Installation
+###  Demo for the Bot
+-Test our Bot by Clicking the button below 
 
-### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Streams-Extractor)
+<a href="http://t.me/SC_Subtitle_Bot"><img src="https://img.shields.io/badge/Click%F0%9F%91%89-SC%20Subtitle%20Extractor%20Bot-orange"></a>
+<br>
 
-### Deploy in your vps
-```sh
-git clone https://github.com/TroJanzHEX/Streams-Extractor
-cd Streams-Extractor
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
+
+A Powerful and Useful Bot Which Can :-
+* ✅Extract the Subtitle from the video
+* ✅Supports all type of video extension
+* ✅Easily Used 
+
+# Hosting 🖥
+
+### Deploying To Heroku ⚙
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/SC-Image-Editor-Bot)
+
+### NOTE✍🏻
+<HR/>
+
+If you are facing any issue or having problem in deployment then contact us through our group.
+
+
+<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join%F0%9F%91%89-Ubuntu%20Coders-brightgreen"></a>
+
+<HR/>
+
+### Mandatory Configs 📒
 ```
-
-## Configs
-
-* BOT_TOKEN  - Get bot token from @BotFather
-
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
-
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
-
-* AUTH_USERS    - Get from @MissRose_bot by /id command
-
-## Credits
-
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
-
-
+[+] Make Sure You Add All These Mandatory Vars. 
+    [-] API_ID:   You can get this value from https://my.telegram.org
+    [-] API_HASH :   You can get this value from https://my.telegram.org
+    [-] BOT_TOKEN : You can get thus value from https://t.me/BotFather
+[+] The SC-TRenamer-bot will not work without setting the mandatory vars.
+```
